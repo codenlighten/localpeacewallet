@@ -1,0 +1,7 @@
+{
+    "name": "localpeacewallet",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
